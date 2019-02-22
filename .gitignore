@@ -1,3 +1,5 @@
 #stuff you don't want git to track
 **.vscode
 Pipfile.lock
+var/*
+**__pycache__
