@@ -3,6 +3,7 @@ set of functions to build a schedule of mortgage payments
 """
 from datetime import datetime
 
+
 def monthly_i(i):
     #calculate the monthly interest rate
     return i / 12
